@@ -1,0 +1,8 @@
+{
+  "name": "Remix RoboDoc - Simulador de Paciente Robot",
+  "description": "Simulador interactivo de paciente robot para estudiantes de Medicina Interna con casos clínicos, monitoreo hemodinámico en tiempo real y anamnesis dinámica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
